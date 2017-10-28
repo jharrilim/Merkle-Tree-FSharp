@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Merkle Tree", "Merkle Tree\Merkle Tree.fsproj", "{2624C082-DA50-4461-85D2-4BF2C6F3C25E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2624C082-DA50-4461-85D2-4BF2C6F3C25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2624C082-DA50-4461-85D2-4BF2C6F3C25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2624C082-DA50-4461-85D2-4BF2C6F3C25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2624C082-DA50-4461-85D2-4BF2C6F3C25E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFBDA0D9-DE36-4CAE-896B-9DBE6D3F097F}
+	EndGlobalSection
+EndGlobal
